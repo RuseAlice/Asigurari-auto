@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1515342409 source:c:\users\alice georgiana\desktop\pp\proiectp.p\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Header.h"
+
+1515341401 c:\users\alice georgiana\desktop\pp\proiectp.p\header.h
+
